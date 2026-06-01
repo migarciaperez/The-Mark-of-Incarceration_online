@@ -1,0 +1,7 @@
+echo "# The-Mark-of-Incarceration_online" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/migarciaperez/The-Mark-of-Incarceration_online.git
+git push -u origin main
